@@ -7,3 +7,5 @@ if a%2==0:
 
 if a%2!=0:
    print(" El numero es impar ")
+
+print("\nEl doble del numero es ",a*2)
