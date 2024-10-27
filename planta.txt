@@ -1,0 +1,3 @@
+primer archivo ,esta es la primera linea de codigio 
+y esta es la segunda 
+/*haga recursividad factoria en python */
